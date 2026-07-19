@@ -26,8 +26,9 @@ Professional and detail-oriented Information Technology specialist specializing 
 
 ### 📊 GitHub Stats
 
-![Samah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sama7mansou97&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sama7mansou97&layout=compact&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sama7mansou97&show_icons=true&theme=dark" alt="Samah Mansour's GitHub Stats" />
+</p>
 
 ---
 
