@@ -24,11 +24,11 @@ Professional and detail-oriented Information Technology specialist specializing 
 
 ---
 
-### 📊 GitHub Stats
+🤖 **Mobile Development:**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sama7mansou97&show_icons=true&theme=dark" alt="Samah Mansour's GitHub Stats" />
-</p>
+📊 **Data & Systems:**
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ---
 
